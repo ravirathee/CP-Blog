@@ -5,7 +5,6 @@
 - **3. Sorted Rotated Array**
 - **4. Square Root using Binary Search**
 - **5. Exponentiation using Binary Search**
--
 - **Competitive Topics**
 - **6. Optimisation Problems - Binary Search on Search Space**
 
