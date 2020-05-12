@@ -6,6 +6,7 @@
 
 
 ## Problems
+> Implement these basic functions to get an idea of binary search
 
 | Problem | Site | Material | Practice |         
 | Find Minimum Element in Sorted Rotated Array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/) | [Practice](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) |
