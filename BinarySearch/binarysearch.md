@@ -6,7 +6,7 @@
 - **4. Square Root using Binary Search**
 - **5. Exponentiation using Binary Search**
 
-<br><br><br>
+<br><br>
 
 ## 1. Normal Binary search
 > Study both Iterative and Recursive Approach of Binary Search
@@ -22,7 +22,13 @@
   You should know how to modify a binary search function efficiently.
   Also check out STL library implementation of Upper and Lower Bound.
 
-<br><br>
+
+
+
+
+
+
+
 
 | Problem | Site | Material | Practice |
 | :--- | :--- | :--- | :--- |
