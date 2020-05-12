@@ -1,6 +1,6 @@
 # A Beginner's Guide to Competitive Programming
-## Novice to Pro
-> An Awesome curated list classified by topics.
+### Here is a list of Competitive Programming Topics and a path to master each Topic
+``` Here is a list  ```
 
 ## Binary Search
 
