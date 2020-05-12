@@ -15,20 +15,12 @@
 | :--------------------------------------------------- | :--- | :--- | :--- |
 | Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
 
-<br><br>
+<br>
 
 ## 2. Upper Bound and Lower Bound using Binary Search
 > Study how Upper Bound and Lower Bounds are found out in an array using binary search
   You should know how to modify a binary search function efficiently.
   Also check out STL library implementation of Upper and Lower Bound.
-
-
-
-
-
-
-
-
 
 | Problem | Site | Material | Practice |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +28,7 @@
 | Find Lower Bound in Sorted Array | GeeksForGeeks |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | - |
 | Bishu And Soldiers | HackerEarth | - | [Practice](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)  |
 
-<br><br>
+<br>
 
 ## 3. Sorted Rotated Array
 > Implement these basic functions to get an idea of binary search
@@ -49,3 +41,5 @@
 | Search in a Sorted Rotated Array with Duplicates | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-rotated-array-with-duplicates/) | Practice |
 | Rotation Count in a Sorted Rotated Array | GeeksForGeeks | Study | [Practice](https://practice.geeksforgeeks.org/problems/rotation/0) |
 | Count Elements less than or equal to the given value in Sorted Rotated Array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/count-elements-less-equal-given-value-sorted-rotated-array/?ref=rp) | Practice |
+
+<br>
