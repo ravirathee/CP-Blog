@@ -6,6 +6,8 @@
 - **4. Square Root using Binary Search**
 - **5. Exponentiation using Binary Search**
 
+<br><br><br><br>
+
 ## 1. Normal Binary search
 > Study both Iterative and Recursive Approach of Binary Search
 
