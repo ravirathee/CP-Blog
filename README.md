@@ -12,4 +12,4 @@
 
 <a href="ravirathee.github.io/CPBlog/binarysearch">Page 2</a>
 
-[binary serach](binarysearch.md) 
+[binary search](BinarySearch/binarysearch.md)
