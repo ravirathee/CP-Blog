@@ -1,5 +1,5 @@
 # Binary Search
->To have a strong grip on binary search, you should practice the given below questions.
+>To have a strong grip on binary search, you should practice the given below topics.
 - **Normal Binary Search**
 - **Finding Upper and Lower Bound using Binary Search**
 - **Sorted Rotated Array**
@@ -7,13 +7,8 @@
 ## Normal Binary search
 > Study both Iterative and Recursive Approach of Binary Search
 
-| Problem | Material |
-| Search element in Sorted Array | [Study](https://www.geeksforgeeks.org/binary-search/) |
-
-#### Practice problems
-
-| Problem | Site | Practice |  
-| Searching an element in a sorted array | GeeksForGeeks | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
+| Problem | Site | Material | Practice |  
+| Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
 
 
 ## Upper Bound and Lower Bound using Binary Search (Important)
