@@ -1,5 +1,7 @@
 # Binary Search
-
+- **Normal Binary Search**
+- **Finding Upper and Lower Bound using Binary Search**
+- **Sorted Rotated Array**
 >To have a strong grip on binary search, you should practice the given below questions.
 
 ## Resources
