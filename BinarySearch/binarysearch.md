@@ -4,21 +4,21 @@
 - **Finding Upper and Lower Bound using Binary Search**
 - **Sorted Rotated Array**
 
-## Normal Binary search
+## 1. Normal Binary search
 > Study both Iterative and Recursive Approach of Binary Search
 
 | Problem | Site | Material | Practice |  
 | Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
 
 
-## Upper Bound and Lower Bound using Binary Search (Important)
+## 2. Upper Bound and Lower Bound using Binary Search (Important)
 > Study how Upper Bound and Lower Bounds are found out in an array using binary search
 
 | Problem | Material |
 | Find Upper Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
 | Find Lower Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
 
-## Problems on Sorted Rotated Array
+## 3. Sorted Rotated Array
 > Implement these basic functions to get an idea of binary search
 
 | Problem | Site | Material | Practice |         
