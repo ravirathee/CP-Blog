@@ -10,7 +10,7 @@
 | Problem | Material |
 | Search element in Sorted Array | [Study](https://www.geeksforgeeks.org/binary-search/) |
 
-####Practice problems
+#### Practice problems
 
 | Problem | Site | Practice |  
 | Searching an element in a sorted array | GeeksForGeeks | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
