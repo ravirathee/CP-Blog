@@ -8,12 +8,14 @@
 > Study both Iterative and Recursive Approach of Binary Search
 
 | Problem | Site | Material | Practice |
-| --- |  |  |  | 
+| --- |  |  |  |
 | Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
 
 
 ## 2. Upper Bound and Lower Bound using Binary Search
 > Study how Upper Bound and Lower Bounds are found out in an array using binary search
+  You should know how to modify a binary search function efficiently.
+  Also check out STL library implementation of Upper and Lower Bound.
 
 | Problem | Material |
 | Find Upper Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
