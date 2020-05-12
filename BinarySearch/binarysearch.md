@@ -1,8 +1,8 @@
 # Binary Search
 >To have a strong grip on binary search, you should practice the given below topics.
-- **Normal Binary Search**
-- **Finding Upper and Lower Bound using Binary Search**
-- **Sorted Rotated Array**
+- **1. Normal Binary Search**
+- **2. Finding Upper and Lower Bound using Binary Search**
+- **3. Sorted Rotated Array**
 
 ## 1. Normal Binary search
 > Study both Iterative and Recursive Approach of Binary Search
