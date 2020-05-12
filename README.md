@@ -11,3 +11,5 @@
 | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. |
 
 <a href="ravirathee.github.io/CPBlog/binarysearch">Page 2</a>
+
+[binary serach](binarysearch.md) 
