@@ -4,8 +4,9 @@
 - **Finding Upper and Lower Bound using Binary Search**
 - **Sorted Rotated Array**
 
-## Binary search
-  
+## Normal Binary search
+| Problem | Site | Material | Practice |   
+| Search the given element in Sorted Array |
 
 
 ## Problems on Sorted Rotated Array
@@ -13,7 +14,7 @@
 
 | Problem | Site | Material | Practice |         
 | Find Minimum Element in Sorted Rotated Array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/) | [Practice](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) |
-| Find Maximum/Pivot Element in Sorted Rotated Array | GeeksForGeeks | [S1](http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/) [S2](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/?ref=rp) | Practice |
+| Find Maximum/Pivot/Peak Element in Sorted Rotated Array | GeeksForGeeks | [S1](http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/) [S2](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/?ref=rp) | Practice |
 | Search in a Sorted Rotated Array | GeeksForGeeks | [Study]() | [Practice](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) |
 | Search in a Sorted Rotated Array with Duplicates | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-rotated-array-with-duplicates/) | Practice |
 | Rotation Count in a Sorted Rotated Array | GeeksForGeeks | Study | [Practice](https://practice.geeksforgeeks.org/problems/rotation/0) |
