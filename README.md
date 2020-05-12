@@ -1,7 +1,7 @@
-# Competitive Programming
+# A beginners Guide Competitive Programming
 
 
-## List of Lists
+## Binary Search
 > Awesome curated lists classified by topics.
 
 | Name | Description |
