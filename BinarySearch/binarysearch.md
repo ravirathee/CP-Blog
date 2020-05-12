@@ -3,6 +3,8 @@
 - **1. Normal Binary Search**
 - **2. Finding Upper and Lower Bound using Binary Search**
 - **3. Sorted Rotated Array**
+- **4. Square Root using Binary Search**
+- **5. Exponentiation using Binary Search**
 
 ## 1. Normal Binary search
 > Study both Iterative and Recursive Approach of Binary Search
