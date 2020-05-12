@@ -1,4 +1,4 @@
-# A beginner's Guide to Competitive Programming
+# A Beginner's Guide to Competitive Programming
 ## Novice to Pro
 > An Awesome curated list classified by topics.
 
