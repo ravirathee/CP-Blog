@@ -17,9 +17,11 @@
   You should know how to modify a binary search function efficiently.
   Also check out STL library implementation of Upper and Lower Bound.
 
-| Problem | Material |
-| Find Upper Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
-| Find Lower Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
+| Problem | Site | Material | Practice |
+| Find Upper Bound in Sorted Array | |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | |
+| Find Lower Bound in Sorted Array | |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | |
+| Bishu And Soldiers | HackerEarth |  | [Practice](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)  |
+
 
 ## 3. Sorted Rotated Array
 > Implement these basic functions to get an idea of binary search
