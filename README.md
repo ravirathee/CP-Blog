@@ -1,8 +1,8 @@
-# A beginners Guide Competitive Programming
-
+# A beginner's Guide to Competitive Programming
+## Novice to Pro
+> An Awesome curated list classified by topics.
 
 ## Binary Search
-> Awesome curated lists classified by topics.
 
 | Name | Description |
 | --- | --- |
@@ -13,3 +13,13 @@
 <a href="ravirathee.github.io/CPBlog/binarysearch">Page 2</a>
 
 [binary search](BinarySearch/binarysearch.md)
+
+
+
+## Problems
+| Site | Problem | Link |
+| ---  | --- | ---  |
+| GeeksForGeeks | Find Minimum Element in Sorted Rotated Array | [Link](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) |
+| GeeksForGeeks | Search in a Sorted Rotated Array | [Link](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) |
+| GeeksForGeeks | Search in a Sorted Rotated Array with Duplicates | [Link](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-rotated-array-with-duplicates/) |
+| GeeksForGeeks | Rotation Count in a Sorted Rotated Array | [Link](https://practice.geeksforgeeks.org/problems/rotation/0) |
