@@ -1,4 +1,4 @@
-# Binary Search
+# **Binary Search**
 >To have a strong grip on binary search, you should practice the given below topics.
 - **1. Normal Binary Search**
 - **2. Finding Upper and Lower Bound using Binary Search**
