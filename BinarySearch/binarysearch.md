@@ -18,9 +18,9 @@
   Also check out STL library implementation of Upper and Lower Bound.
 
 | Problem | Site | Material | Practice |
-| Find Upper Bound in Sorted Array | |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | |
-| Find Lower Bound in Sorted Array | |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | |
-| Bishu And Soldiers | HackerEarth |  | [Practice](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)  |
+| Find Upper Bound in Sorted Array | GeeksForGeeks |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | - |
+| Find Lower Bound in Sorted Array | GeeksForGeeks |  [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) | - |
+| Bishu And Soldiers | HackerEarth | - | [Practice](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)  |
 
 
 ## 3. Sorted Rotated Array
