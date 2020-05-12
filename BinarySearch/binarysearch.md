@@ -11,7 +11,7 @@
 | Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
 
 
-## 2. Upper Bound and Lower Bound using Binary Search (Important)
+## 2. Upper Bound and Lower Bound using Binary Search
 > Study how Upper Bound and Lower Bounds are found out in an array using binary search
 
 | Problem | Material |
