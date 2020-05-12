@@ -5,9 +5,23 @@
 - **Sorted Rotated Array**
 
 ## Normal Binary search
-| Problem | Site | Material | Practice |   
-| Search the given element in Sorted Array |
+> Study both Iterative and Recursive Approach of Binary Search
 
+| Problem | Material |
+| Search element in Sorted Array | [Study](https://www.geeksforgeeks.org/binary-search/) |
+
+####Practice problems
+
+| Problem | Site | Practice |  
+| Searching an element in a sorted array | GeeksForGeeks | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
+
+
+## Upper Bound and Lower Bound using Binary Search (Important)
+> Study how Upper Bound and Lower Bounds are found out in an array using binary search
+
+| Problem | Material |
+| Find Upper Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
+| Find Lower Bound in Sorted Array | [Study](https://www.geeksforgeeks.org/upper_bound-in-cpp/) |
 
 ## Problems on Sorted Rotated Array
 > Implement these basic functions to get an idea of binary search
