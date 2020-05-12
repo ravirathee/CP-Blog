@@ -1,6 +1,7 @@
 # A Beginner's Guide to Competitive Programming
-### Here is a list of Competitive Programming Topics and a path to master each Topic
-``` Here is a list  ```
+### Here is a list of Competitive Programming Topics
+#### and a path to master each Topic
+``` Note :-   ```
 
 ## Binary Search
 
