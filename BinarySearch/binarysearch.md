@@ -10,7 +10,7 @@
 > Study both Iterative and Recursive Approach of Binary Search
 
 | Problem | Site | Material | Practice |
-| :-------------------------- | :--- | :--- | :--- |
+| :--------------------------------------------------- | :--- | :--- | :--- |
 | Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
 
 
