@@ -5,7 +5,7 @@
 ## Resources
 
 
-## Problems
+## Problems on Sorted Rotated Array
 > Implement these basic functions to get an idea of binary search
 
 | Problem | Site | Material | Practice |         
