@@ -8,7 +8,7 @@
 ## Problems
 
 | Problem | Site | Material | Practice |         
-| Find Minimum Element in Sorted Rotated Array | GeeksForGeeks | [Study]() | [Practice](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) |
+| Find Minimum Element in Sorted Rotated Array | GeeksForGeeks | [Study] | [Practice](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array/0) |
 | Search in a Sorted Rotated Array | GeeksForGeeks | [Study]() | [Practice](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0) |
 | Search in a Sorted Rotated Array with Duplicates | GeeksForGeeks | [Study]() | [Practice](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-rotated-array-with-duplicates/) |
 | Rotation Count in a Sorted Rotated Array | GeeksForGeeks | [Study]() | [Practice](https://practice.geeksforgeeks.org/problems/rotation/0) |
