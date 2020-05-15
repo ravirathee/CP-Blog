@@ -7,7 +7,7 @@
 - **5. Square Root using Binary Search**
 - **6. Exponentiation using Binary Search**
 -      **Competitive Topics**
-- **6. Optimisation Problems - Binary Search on Search Space**
+- **7. Optimisation Problems - Binary Search on Search Space**
 
 <br><br>
 
@@ -46,15 +46,19 @@
 | Count Elements less than or equal to the given value in Sorted Rotated Array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/count-elements-less-equal-given-value-sorted-rotated-array/?ref=rp) | Practice |
 
 <br>
-## 4. Square Root using Binary Search
+## 4. Find Peak Element
 > Implement this function to get an idea of binary search
 
 <br>
-## 5. Exponentiation using Binary Search
-> Implement this function to get an idea of binary search
+## 5. Square Root using Binary Search
+> Implement this function to get an idea of binary search in mathematics
 
 <br>
-## 6. Optimisation Problems
+## 6. Exponentiation using Binary Search
+> Implement this function to get an idea of binary search in mathematics
+
+<br>
+## 7. Optimisation Problems
 
 | Problem | Site | Practice |
 | :--- | :--- | :--- |
