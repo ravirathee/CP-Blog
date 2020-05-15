@@ -3,8 +3,9 @@
 - **1. Normal Binary Search**
 - **2. Finding Upper and Lower Bound using Binary Search**
 - **3. Sorted Rotated Array**
-- **4. Square Root using Binary Search**
-- **5. Exponentiation using Binary Search**
+- **4. Find Peak Element
+- **5. Square Root using Binary Search**
+- **6. Exponentiation using Binary Search**
 -      **Competitive Topics**
 - **6. Optimisation Problems - Binary Search on Search Space**
 
