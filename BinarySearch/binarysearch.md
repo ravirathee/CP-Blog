@@ -60,3 +60,4 @@
 | Aggressive Cows | SPOJ | [Practice](https://www.spoj.com/problems/AGGRCOW/) |
 | Book Allocation Problem | SPOJ | [Practice](https://www.spoj.com/problems/BOOKS1/) |
 | Book Allocation Problem | GeeksForGeeks | [Practice](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0) |
+| The Painter's Partition | GeeksForGeeks | [Practice](https://practice.geeksforgeeks.org/problems/the-painters-partition-problem/0/) |
