@@ -17,6 +17,7 @@
 | Problem | Site | Material | Practice |
 | :--------------------------------------------------- | :--- | :--- | :--- |
 | Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
+| Find the element that appears once in sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/) | [Practice](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) |
 
 <br>
 
