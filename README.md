@@ -9,3 +9,6 @@
 - Linear Search
 - [Binary Search](BinarySearch/binarysearch.md)
 - Ternary Search
+
+
+[a](a.md)
