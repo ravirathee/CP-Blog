@@ -48,7 +48,14 @@
 
 <br>
 ## 4. Find Peak Element
-> Implement this function to get an idea of binary search
+> Implement these function to get an idea of binary search
+  - Find peak element in a bitonic(first increasing - then decreasing) Array
+  - Find any peak element in an array
+
+| Problem | Site | Material | Practice |
+| :--- | :--- | :--- | :--- |
+| Find Peak Element in Bitonic Array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/) | [Practice](https://practice.geeksforgeeks.org/problems/finding-number/0) |
+| Find any peak element in an array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/) | [Practice](https://practice.geeksforgeeks.org/problems/peak-element/1) |
 
 <br>
 ## 5. Square Root using Binary Search
