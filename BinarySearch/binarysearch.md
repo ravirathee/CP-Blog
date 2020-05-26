@@ -3,7 +3,7 @@
 - **1. Normal Binary Search**
 - **2. Finding Upper and Lower Bound using Binary Search**
 - **3. Sorted Rotated Array**
-- **4. Find Peak Element
+- **4. Find Peak Element**
 - **5. Square Root using Binary Search**
 - **6. Exponentiation using Binary Search**
 -      **Competitive Topics**
