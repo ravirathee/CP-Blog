@@ -10,5 +10,6 @@
 - [Binary Search](BinarySearch/binarysearch.md)
 - Ternary Search
 
-
-[a](a.md)
+### Sorting
+- [Merge Sort](Sorting/MergeSort/mergesort.md)
+- [Quick Sort](Sorting/QuickSort/quicksort.md)
