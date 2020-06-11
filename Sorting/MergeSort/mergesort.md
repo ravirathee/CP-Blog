@@ -1,17 +1,12 @@
-# **Binary Search**
->To have a strong grip on binary search, you should practice the given below topics.
+# **Merge Sort**
+>To have a strong grip on Merge Sort, you should practice the given below topics.
 - **1. Normal Binary Search**
-- **2. Finding Upper and Lower Bound using Binary Search**
-- **3. Sorted Rotated Array**
-- **4. Find Peak Element**
-- **5. Square Root using Binary Search**
-- **6. Exponentiation using Binary Search**
--      **Competitive Topics**
-- **7. Optimisation Problems - Binary Search on Search Space**
+- **2. nexttopichere**
+
 
 <br><br>
 
-## 1. Normal Binary search
+## 1. Normal Merge Sort
 > Study both Iterative and Recursive Approach of Binary Search
 
 | Problem | Site | Material | Practice |

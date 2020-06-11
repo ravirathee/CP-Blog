@@ -1,16 +1,18 @@
-# **Quick Sort**
->To have a strong grip on quick sort, you should practice the given below topics.
-- **1. Normal Quick Sort**
-- **2. nexttopichere**
+# **Dynamic Programming**
+>To have a strong grip on Dynamic Programming, you should practice the given below questions as a starting stage.
+> To master Dynamic Programming you need to practice a lot of DP questions.
+> Practice is the only key to get better at DP.
 
 <br><br>
 
-## 1. Normal Quick Sort
-> Study both Iterative and Recursive Approach of Binary Search
+## 1. Common Classic Dynamic Programming Questions
+> These are some common Classic Dynamic Programming Questions
+> Practice These to get an idea of Dynamic Programming.
+
 
 | Problem | Site | Material | Practice |
 | :--------------------------------------------------- | :--- | :--- | :--- |
-| Searching an element in a sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/binary-search/) | [Practice](https://practice.geeksforgeeks.org/problems/who-will-win/0) |
+| Longest Common Subsequence | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/) | [Practice](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) |
 | Find the element that appears once in sorted array | GeeksForGeeks | [Study](https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/) | [Practice](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array/0) |
 
 <br>
