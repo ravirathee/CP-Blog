@@ -14,5 +14,8 @@
 - [Merge Sort](Sorting/MergeSort/mergesort.md)
 - [Quick Sort](Sorting/QuickSort/quicksort.md)
 
+### Divide And Conquer
+- [Divide and Conquer](divideAndConquer/divideAndConquer.md)
+
 ### Dynamic Programming
 - [Dynamic Programming](DynamicProgramming/dynamicprogramming.md)
