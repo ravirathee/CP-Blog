@@ -7,15 +7,15 @@
 
 ### Searching
 - Linear Search
-- [Binary Search](BinarySearch/binarysearch.md)
+- [Binary Search](BinarySearch/BinarySearch.md)
 - Ternary Search
 
 ### Sorting
-- [Merge Sort](sorting/mergeSort/mergeSort.md)
-- [Quick Sort](sorting/quickSort/quickSort.md)
+- [Merge Sort](Sorting/MergeSort/MergeSort.md)
+- [Quick Sort](Sorting/QuickSort/QuickSort.md)
 
 ### Divide And Conquer
-- [Divide and Conquer](divideAndConquer/divideAndConquer.md)
+- [Divide and Conquer](DivideAndConquer/DivideAndConquer.md)
 
 ### Dynamic Programming
-- [Dynamic Programming](dynamicProgramming/dynamicProgramming.md)
+- [Dynamic Programming](DynamicProgramming/DynamicProgramming.md)
